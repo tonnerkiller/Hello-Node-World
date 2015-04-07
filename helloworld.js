@@ -1,4 +1,4 @@
 /**
  * New node file
  */
-console.log('Hallo Welt')
+console.log('Hello World, χαῖρε κόσμε, שֹׂלוׂם עֹלָם');

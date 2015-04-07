@@ -1,2 +1,2 @@
 # Hello-Node-World
-This is a placeholder
+This 'project' will serve as testing dump. Here you might find all kinds of stuff dumped and tried out in a non-useful manner. So keep walking, nothing to see here...
